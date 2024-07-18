@@ -1,5 +1,5 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://kloud47.io)
-<h1 align="center">Hi 👋, I'm Priyanshu Shukla</h1>
+<h1 align="center">I'm Priyanshu Shukla</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" >
 
