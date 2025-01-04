@@ -1,15 +1,15 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://kloud47.io)
 <h1 align="center">I'm Priyanshu Shukla</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kloud47&label=Profile%20views&color=0e75b6&style=flat" alt="kloud47" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@kloud_123456" target="blank"><img src="https://img.shields.io/twitter/follow/@kloud_123456?logo=twitter&style=for-the-badge" alt="@kloud_123456" /></a> </p>
 
-- 🌱 I’m currently learning **React and advanced Deployemnt**
+- 🌱 I’m currently learning **Game Deployemnt & 3D or Computer Graphics**
 
-- 💬 Ask me about **MERN, DSA, C++**
+- 💬 Ask me about **MERN, NextJS, DSA, C++, Unreal Engine, ThreeJS, Backend-frontend**
 
 - 📫 How to reach me **priyanshukla2003@gmail.com**
 
