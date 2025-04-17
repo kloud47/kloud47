@@ -1,5 +1,5 @@
 
-![6631539](https://github.com/user-attachments/assets/8cbb86e4-d3f0-43f0-9f2c-3afda2721538)
+![6631539](https://github.com/user-attachments/assets/f3ca9ea8-3abb-46b8-9948-4bde9776211d)
 <h1 align="center">Hi 👋, I'
 m Priyanshu Shukla</h1>
 <h3 align="center">Passionate Game & Full Stack Developer making life fun gaming and Code..</h3>
