@@ -1,7 +1,6 @@
 
 ![Github_Label](https://github.com/user-attachments/assets/229dd1bb-2391-4e77-bb48-ba5d9c3b1a9c)
-<h1 align="center">Hi 👋, I'
-m Priyanshu Shukla</h1>
+<h1 align="center">Meet Priyanshu Shukla</h1>
 <h3 align="center">Passionate Game & Full Stack Developer making life fun gaming and Code..</h3>
 
 <h3 align="left">Languages and Tools:</h3>
